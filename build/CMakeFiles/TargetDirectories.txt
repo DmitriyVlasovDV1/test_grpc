@@ -1,0 +1,3 @@
+/home/dvlasov/test/test_grpc/build/CMakeFiles/api_walker.dir
+/home/dvlasov/test/test_grpc/build/CMakeFiles/edit_cache.dir
+/home/dvlasov/test/test_grpc/build/CMakeFiles/rebuild_cache.dir
